@@ -1,4 +1,1 @@
-wuahdukhwuhakduhh
-qwiuhduhqehque
-q2heku2heqhhq2hueuqh
-876987
+print(6+7,6-7,6*7,6/7,6**7)
