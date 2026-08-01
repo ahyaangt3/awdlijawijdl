@@ -1,2 +1,2 @@
-print ("ronaldo is the goat")
+print ("ronaldo is the GOAT")
 print(1)
